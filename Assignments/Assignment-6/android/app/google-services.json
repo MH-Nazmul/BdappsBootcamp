@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "10825282583",
+    "project_id": "abcd-37a04",
+    "storage_bucket": "abcd-37a04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10825282583:android:0ecc5996c762e1adc95852",
+        "android_client_info": {
+          "package_name": "com.example.notes_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10825282583-u6fcjefc97s93l9ps0ofa0ripbu6i2e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciM-ftPVPz0ulLoMR3pDJCtrpTqActrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10825282583-u6fcjefc97s93l9ps0ofa0ripbu6i2e4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10825282583-d82elqtuesceamna86p8lfc3egpjtdfu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sms"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10825282583:android:b9f888b78faba8d8c95852",
+        "android_client_info": {
+          "package_name": "com.mhtechlab.superadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10825282583-ai6qikvvh2qjjosuto7bvt79blvpvcus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhtechlab.superadmin",
+            "certificate_hash": "6dfffbdc43cc93742ca906107b063dbc03aed9ce"
+          }
+        },
+        {
+          "client_id": "10825282583-u6fcjefc97s93l9ps0ofa0ripbu6i2e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciM-ftPVPz0ulLoMR3pDJCtrpTqActrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10825282583-u6fcjefc97s93l9ps0ofa0ripbu6i2e4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10825282583-d82elqtuesceamna86p8lfc3egpjtdfu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sms"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10825282583:android:3144bdca96c6b17ec95852",
+        "android_client_info": {
+          "package_name": "com.mhtechland.schoolmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10825282583-2qgj2t03ajeslgbmbtg42ka1ivhp4h0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhtechland.schoolmanager",
+            "certificate_hash": "318e32c7f0f6aff2a62a4be717b7d500c529be29"
+          }
+        },
+        {
+          "client_id": "10825282583-jkrl04p5d73qgo9magl5qh6dk8rtg5qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhtechland.schoolmanager",
+            "certificate_hash": "1f6811a58d6d513b477abe61865c3261de4086e4"
+          }
+        },
+        {
+          "client_id": "10825282583-vrjujs2os877j0gdqtaraj13vs4no0qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhtechland.schoolmanager",
+            "certificate_hash": "f1eaf464532c5c58ded4559345c7a770c8466b87"
+          }
+        },
+        {
+          "client_id": "10825282583-u6fcjefc97s93l9ps0ofa0ripbu6i2e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciM-ftPVPz0ulLoMR3pDJCtrpTqActrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10825282583-u6fcjefc97s93l9ps0ofa0ripbu6i2e4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10825282583-d82elqtuesceamna86p8lfc3egpjtdfu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
